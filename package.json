@@ -19,8 +19,12 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2",
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
+    "jsdom": "^26.1.0",
+    "puppeteer": "^24.17.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
